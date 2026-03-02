@@ -7,7 +7,7 @@ An AI-powered autonomous walking agent trained using reinforcement learning with
 This project demonstrates a machine learning agent learning to walk autonomously in a simulated 3D environment. The agent is trained using the Unity ML-Agents Toolkit with PPO reinforcement learning algorithm and can navigate obstacles and collect rewards.
 
 ## The Project
-<video controls src="Trained Agent.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/7850e7ae-d2c6-468a-b74f-c1010d0e1646
 
 ## Features
 
